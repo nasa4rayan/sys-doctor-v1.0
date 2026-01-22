@@ -1,7 +1,7 @@
 # sys-doctor
 🐧 sys-doctor
 
-Smart Linux System Health Analyzer(ONLY LINUX)
+Smart Linux System Health Analyzer !(ONLY LINUX)!
 
 CPU • GPU • RAM • Disk • Score • AI Suggestions
 
